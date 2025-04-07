@@ -1,0 +1,79 @@
+@s1 One upon a time a boy named Ken received a great 
+jacket for his birthday gift.
+All of the other kids loved the jacket.
+The next day, Ken asked his dad to wear the new 
+jacket to school. But his dad told him "No." 
+
+Should He:
+@p1 be disobedient and take it anyway
+2
+
+@p2 listen to his father
+10
+
+
+
+@s2 Ken decided to disobey his father and wear the jacket to school. 
+While at school his classmate Michelle, asked
+if she could wear the jacket for her 4th hour class. She said she 
+would return it after class was done. Ken really liked 
+Michelle, so he let her wear the jacket. But after class Michelle's 
+boyfriend Ronald was wearing the jacket. This infuriated  
+Ken, and he wanted his jacket back!
+
+Should He:
+@p3 Politely Ask Ronald for the jacket
+3
+
+@p4 Ask Ronald where he got the jacket
+3
+
+@p5 Choose violence!
+4
+
+@s3 Ronald said to Ken, "This is now my jacket!" You will know next time not to move in on my girl!
+
+@s4 Ken grabs Ronald by his shoulder and said "Give me my jacket now Ronald or else!"
+
+@s5 Ronald turns aroud quickly to deliver a knuckle sandwich to Ken face!
+
+Should He:
+@p6 Block the punch and counter
+6
+
+@p7 Run away as fast as possible
+7
+
+@s6 Ken blocks Ronald's Punch and quickly grabs the bottom of his jacket,
+pulling it over Ronald's head. Ronald throws the jacket at Ken and says," Here! Take your pathetic coat!"
+As he storms down the hallway.
+
+
+
+@s8 As Ken takes the bus home, he knows his father will be furious with him for his disobedience.
+
+Shoud He:
+@p8 Come home and face his father.
+9
+@p9 Sneak in the house and pretend he never wore the jacket to schoool.
+9
+
+@s9 As Ken returns home, he enters his room to find his father waiting. 
+"Dont lie, you took the jacket didn't you?" said his father.
+Ken is grounded for two weeks and his jacket is taken away.
+@0
+
+@s7 Ken runs away as Ronald smirks yelling "coward!" 
+The next day, Ken finds him self the laughing stock of the school.
+"I really should have listened to my father." He sighed. A tough lesson learned 
+@0
+
+@s10 Ken decides to listen to his father, and has a super day at school.
+@0
+
+
+
+
+
+
+
